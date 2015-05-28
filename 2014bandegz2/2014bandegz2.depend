@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1426968399 source:c:\users\auridas\downloads\info\2014bandegz2\main.cpp
+	<iostream>
+	<fstream>
+
+1428243806 source:c:\users\auridas\downloads\info\2014bandegz2 x\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

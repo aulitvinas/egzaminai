@@ -1,0 +1,16 @@
+5 5 6
+Petras Rasa         
+3 1 5 8 10
+5 6 7 8 9 3
+Rita Jurgis         
+6 5 8 5 8
+9 8 7 6 5 8
+Rasa Linas          
+10 10 10 10 10
+8 8 8 8 8 8
+Jurgita Matas       
+8 8 8 7 7
+9 8 9 8 9 10
+Algis Lina          
+7 8 9 10 10
+4 4 5 5 5 7

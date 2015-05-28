@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1422116546 source:c:\users\auridas\downloads\info\2014band\main.cpp
+	<iostream>
+	<fstream>
+
